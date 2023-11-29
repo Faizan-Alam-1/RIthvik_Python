@@ -1,0 +1,8 @@
+git init
+git status  
+git add [name file]
+git commit -m "maessage"
+git remote -v 
+git remote set-url
+
+

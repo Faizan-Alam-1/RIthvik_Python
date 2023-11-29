@@ -1,0 +1,6 @@
+for creating virtual 
+
+1. make project folder 
+2. python3 -m venv [write your vitual env. name]
+3. To activate the virtual env. source name_of_your_virtual/bin/activate
+4. deactivate
